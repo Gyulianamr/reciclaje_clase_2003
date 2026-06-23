@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 import numpy as np
-import steamlit as st
+import streamlit as st
 import tensorflow  as tf
 from PIL import Image
 
